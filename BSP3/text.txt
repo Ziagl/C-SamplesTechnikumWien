@@ -1,0 +1,18 @@
+Player: 1,1 | Male | Human | Schwert: 10
+NPC: 1,4 | Female | Human | waiting
+Player: 8,2 | Male | Human | Axt: 20
+NPC: 3,1 | Male | Dwarf | searching
+Player: 8,2 | Male | Human | Bogen: 20
+NPC: 3,4 | Female | Orc | working
+Player: 2,9 | Female | Orc | Axt: 20
+NPC: 2,5 | Female | Human | fighting
+Player: 3,7 | Female | Human | Bogen: 20 move move jump move jump move die 
+NPC: 3,5 | Male | Dwarf | waiting
+Player: 1,4 | Female | Human | Magie: 12 move die 
+Player: 1,1 | Male | Human | Schwert: 12 move move jump move jump die 
+Player: 1,3 | Female | Human | Schwert: 29 move jump die 
+NPC: 3,5 | Male | Orc | fighting
+NPC: 2,5 | Male | Orc | waiting
+Player: 3,5 | Male | Dwarf | Axt: 30 move die 
+NPC: 3,5 | Female | Human | searching
+NPC: 2,5 | Female | Human | working
